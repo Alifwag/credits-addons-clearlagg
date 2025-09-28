@@ -4,8 +4,8 @@
 
 Website resmi untuk **ClearLagg Bedrock**, komunitas Minecraft Bedrock yang menyediakan wadah untuk berdiskusi, berbagi tips, dan mendapatkan update terbaru ✨
 
-===
 ===================
+====
 ## 🚀 Fitur Website
 - 🎨 Tampilan modern dengan efek animasi (ripple button + fade-in)
 - 🌍 **Auto Translate**: mendukung berbagai bahasa (otomatis menyesuaikan bahasa pengguna)
@@ -14,6 +14,5 @@ Website resmi untuk **ClearLagg Bedrock**, komunitas Minecraft Bedrock yang meny
   - 💬 WhatsApp Group
   - 🎧 Discord Server
   - ⬅️ Navigasi mudah ke halaman lain
-
 ===================
 ===
