@@ -81,6 +81,7 @@ document.querySelectorAll('.btn').forEach(btn => {
   });
 });
 
+
 // ====================== 🌌 Parallax Background ======================
 document.addEventListener('mousemove', e => {
   let x = (e.clientX / window.innerWidth - 0.5) * 10;
