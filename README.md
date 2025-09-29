@@ -15,5 +15,5 @@ Website untuk **ClearLagg Bedrock**, komunitas Minecraft Bedrock yang menyediaka
   - 🎧 Discord Server
   - ⬅️ Navigasi mudah ke halaman lain
  
-  ================
+  =================
   ===
