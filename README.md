@@ -2,7 +2,7 @@
 
 ![ClearLagg Bedrock Logo](image/logo.png)
 
-Website resmi untuk **ClearLagg Bedrock**, komunitas Minecraft Bedrock yang menyediakan wadah untuk berdiskusi, berbagi tips, dan mendapatkan update terbaru ✨
+Website untuk **ClearLagg Bedrock**, komunitas Minecraft Bedrock yang menyediakan wadah untuk berdiskusi, berbagi tips, dan mendapatkan update terbaru ✨
 
 ===================
 ====
@@ -14,5 +14,6 @@ Website resmi untuk **ClearLagg Bedrock**, komunitas Minecraft Bedrock yang meny
   - 💬 WhatsApp Group
   - 🎧 Discord Server
   - ⬅️ Navigasi mudah ke halaman lain
-===================
-===
+ 
+  ================
+  ===
