@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Add-on **anti-lag** untuk Minecraft Bedrock 🎮  
+  Add-on **anti-lag** untuk Minecraft Bedrock server 🎮  
   Membersihkan entity berlebih agar server tetap ringan ⚡
 </p>
 
@@ -66,5 +66,5 @@ Kontributor & pengguna adalah bagian besar dari proyek ini ✨
 
 ---
 <p align="center">
-  <sub>Made with ♥️ for Minecraft Bedrock Community **SERVER** </sub>
+  <sub>Made with ♥️ for Minecraft Bedrock Community Server</sub>
 </p>
