@@ -27,20 +27,6 @@
     <img src="https://img.shields.io/github/last-commit/[NAMA-PENGGUNA-GITHUB]/[NAMA-REPO-ANDA]?style=flat-square&logo=github&label=Commit%20Terakhir" alt="Last Commit"/>
 </p>
 
-<h4>Statistik GitHub</h4>
-<p>
-    <a href="https://github.com/[NAMA-PENGGUNA-GITHUB]/[NAMA-REPO-ANDA]/stargazers">
-        <img src="https://img.shields.io/github/stars/[NAMA-PENGGUNA-GITHUB]/[NAMA-REPO-ANDA]?style=flat-square&logo=github&color=gold" alt="GitHub Stars"/>
-    </a>
-    <a href="https://github.com/[NAMA-PENGGUNA-GITHUB]/[NAMA-REPO-ANDA]/network/members">
-        <img src="https://img.shields.io/github/forks/[NAMA-PENGGUNA-GITHUB]/[NAMA-REPO-ANDA]?style=flat-square&logo=github&color=purple" alt="GitHub Forks"/>
-    </a>
-    <a href="https://github.com/[NAMA-PENGGUNA-GITHUB]/[NAMA-REPO-ANDA]/issues">
-        <img src="https://img.shields.io/github/issues/[NAMA-PENGGUNA-GITHUB]/[NAMA-REPO-ANDA]?style=flat-square&logo=github&color=red" alt="GitHub Issues"/>
-    </a>
-    <img src="https://img.shields.io/github/downloads/[NAMA-PENGGUNA-GITHUB]/[NAMA-REPO-ANDA]/total?style=flat-square&logo=github&color=orange&label=Unduhan" alt="Total Unduhan"/>
-</p>
-
 <h4>Komunitas</h4>
 <p>
     <a href="https://discord.gg/[KODE-UNDANGAN-DISCORD-ANDA]">
