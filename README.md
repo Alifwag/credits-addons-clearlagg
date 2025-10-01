@@ -1,129 +1,128 @@
-# ✨ ClearLagg Bedrock
+<div align="center">
+
+```
+  ██████╗██╗      ███████╗ █████╗ ██████╗ ██╗      █████╗  ██████╗  ██████╗
+ ██╔════╝██║      ██╔════╝██╔══██╗██╔══██╗██║     ██╔══██╗██╔════╝ ██╔════╝
+ ██║     ██║      █████╗  ███████║██████╔╝██║     ███████║██║  ███╗██║  ███╗
+ ██║     ██║      ██╔══╝  ██╔══██║██╔══██╗██║     ██╔══██║██║   ██║██║   ██║
+ ╚██████╗███████╗ ███████╗██║  ██║██████╔╝███████╗██║  ██║╚██████╔╝╚██████╔╝
+  ╚═════╝╚══════╝ ╚══════╝╚═╝  ╚═╝╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝
+```
+<h1 align="center">ClearLagg Bedrock Edition</h1>
+<h3 align="center">Solusi optimasi server #1 untuk Minecraft Bedrock, dirancang untuk memberantas lag dengan membersihkan entitas yang tidak perlu secara cerdas.</h3>
+
+<img src="image/logo.png" alt="ClearLagg Bedrock Logo" width="220"/>
+
+</div>
 
 <p align="center">
-  <img src="image/logo.png" alt="ClearLagg Bedrock Logo" width="240"/>
+    <a href="https://github.com/[NAMA-PENGGUNA-GITHUB]/[NAMA-REPO-ANDA]/releases/latest">
+        <img src="https://img.shields.io/github/v/release/[NAMA-PENGGUNA-GITHUB]/[NAMA-REPO-ANDA]?style=for-the-badge&color=38bdf8&label=Versi" alt="Versi Rilis"/>
+    </a>
+    <a href="https://github.com/[NAMA-PENGGUNA-GITHUB]/[NAMA-REPO-ANDA]/stargazers">
+        <img src="https://img.shields.io/github/stars/[NAMA-PENGGUNA-GITHUB]/[NAMA-REPO-ANDA]?style=for-the-badge&color=yellow" alt="GitHub Stars"/>
+    </a>
+    <a href="https://github.com/[NAMA-PENGGUNA-GITHUB]/[NAMA-REPO-ANDA]/issues">
+        <img src="https://img.shields.io/github/issues/[NAMA-PENGGUNA-GITHUB]/[NAMA-REPO-ANDA]?style=for-the-badge&color=red" alt="GitHub Issues"/>
+    </a>
+    <a href="https://github.com/[NAMA-PENGGUNA-GITHUB]/[NAMA-REPO-ANDA]/blob/main/LICENSE">
+        <img src="https://img.shields.io/github/license/[NAMA-PENGGUNA-GITHUB]/[NAMA-REPO-ANDA]?style=for-the-badge&color=22c55e" alt="Lisensi"/>
+    </a>
 </p>
-
 <p align="center">
-  Add-on **anti-lag** untuk Minecraft Bedrock 🎮  
-  Membersihkan entity berlebih agar server tetap ringan ⚡
-</p>
-
----
-
-<p align="center">
-  <a href="https://github.com/Alifwag/credits-addons-clearlagg">
-    <img src="https://img.shields.io/github/v/release/YourGitHubRepo/ClearLagg-Bedrock?color=38bdf8&label=Version&style=for-the-badge" alt="Version"/>
-  </a>
-  <a href="https://github.com/YourGitHubRepo/stargazers">
-    <img src="https://img.shields.io/github/stars/YourGitHubRepo/ClearLagg-Bedrock?color=yellow&style=for-the-badge" alt="Stars"/>
-  </a>
-  <a href="https://github.com/YourGitHubRepo/issues">
-    <img src="https://img.shields.io/github/issues/YourGitHubRepo/ClearLagg-Bedrock?color=red&style=for-the-badge" alt="Issues"/>
-  </a>
-  <a href="https://github.com/YourGitHubRepo/network/members">
-    <img src="https://img.shields.io/github/forks/YourGitHubRepo/ClearLagg-Bedrock?color=purple&style=for-the-badge" alt="Forks"/>
-  </a>
-  <a href="LICENSE">
-    <img src="https://img.shields.io/github/license/YourGitHubRepo/ClearLagg-Bedrock?style=for-the-badge&color=22c55e" alt="License"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/downloads/YourGitHubRepo/ClearLagg-Bedrock/total?style=for-the-badge&color=orange" alt="Downloads"/>
-  <img src="https://img.shields.io/badge/Made%20with-Love-ff69b4?style=for-the-badge" alt="Made with Love"/>
-</p>
-
----
-
-## 🖼️ Preview
-> Tampilan ClearLagg Bedrock saat berjalan di Minecraft  
-
-<p align="center">
-  <img src="image/preview.png" alt="Preview ClearLagg Bedrock" width="600"/>
+    <img src="https://img.shields.io/github/downloads/[NAMA-PENGGUNA-GITHUB]/[NAMA-REPO-ANDA]/total?style=for-the-badge&color=orange" alt="Total Unduhan"/>
+    <img src="https://img.shields.io/badge/Made%20with-Love-ff69b4?style=for-the-badge" alt="Dibuat dengan Cinta"/>
 </p>
 
 ---
 
-## 🚀 Fitur Utama
-- 🧹 **Clear Entity Otomatis** → hapus mob/item berlebih secara berkala  
-- ⚡ **Optimasi Performa** → server tetap ringan walau banyak pemain  
-- 🔄 **Kompatibel** → selalu update untuk Minecraft Bedrock terbaru  
-- 🎛️ **Instalasi Mudah** → cukup sekali klik import  
-- 📊 **Notifikasi Chat** → tampilkan pesan saat pembersihan berlangsung  
+## 🖼️ Tampilan Dalam Game
+> Visualisasi notifikasi saat **ClearLagg Bedrock** sedang beraksi membersihkan server Anda.
+
+<p align="center">
+  <img src="image/preview.png" alt="Preview ClearLagg Bedrock" width="700"/>
+</p>
 
 ---
 
-## 📥 Download
-📌 Versi terbaru tersedia di halaman **[Releases](https://github.com/YourGitHubRepo/releases)**  
+## 🚀 Fitur Unggulan
+- 🧹 **Pembersihan Otomatis:** Menghapus entitas (item & mob) yang berlebihan secara berkala untuk mencegah penumpukan lag.
+- ⚡ **Performa Maksimal:** Menjaga server tetap ringan dan responsif, bahkan saat ramai pemain.
+- 📊 **Notifikasi Cerdas:** Memberikan pemberitahuan di chat sebelum dan sesudah proses pembersihan.
+- ⚙️ **Instalasi Plug-and-Play:** Cukup impor addon dan aktifkan, tidak perlu konfigurasi rumit.
+- 🔄 **Kompatibilitas Terjamin:** Selalu diuji dan diperbarui untuk versi Minecraft Bedrock terbaru.
 
 ---
 
-## 🛠️ Cara Pakai
-1. Download file `.mcaddon` dari [Releases](https://github.com/YourGitHubRepo/releases)  
-2. Klik 2x file → otomatis terbuka di Minecraft Bedrock  
-3. Aktifkan **Behavior Pack** pada dunia/server kamu  
-4. Nikmati server yang lebih ringan 🚀  
+## 📥 Unduh & Instalasi
+
+### 1. Prasyarat
+- Pastikan Minecraft Bedrock Anda sudah versi **1.20.x** atau yang lebih baru.
+- Aktifkan **Fitur Eksperimental** berikut di pengaturan dunia Anda:
+  - `Beta APIs`
+
+### 2. Langkah Instalasi
+1. Kunjungi halaman **[Releases](https://github.com/[NAMA-PENGGUNA-GITHUB]/[NAMA-REPO-ANDA]/releases)** untuk mengunduh versi terbaru.
+2. Unduh file `.mcaddon` yang tersedia.
+3. Buka file tersebut. Minecraft akan otomatis mengimpor Add-On.
+4. Masuk ke pengaturan Dunia/Server Anda, lalu pilih **Behavior Packs**.
+5. Aktifkan **ClearLagg Bedrock** Pack.
+6. Selesai! Server Anda kini terlindungi dari lag akibat entitas berlebih.
 
 ---
 
-## 👥 Komunitas
-Bergabung dengan komunitas untuk diskusi, tips, dan update terbaru:  
+## ❓ FAQ (Pertanyaan Umum)
 
-- 💬 [WhatsApp Group](https://chat.whatsapp.com/LinkGrupKamu)  
-- 🎧 [Discord Server](https://discord.gg/LinkDiscordKamu)  
+<details>
+<summary><strong>Apakah addon ini aman untuk dunia survival?</strong></summary>
+<br>
+Sangat aman! Addon ini dirancang untuk hanya menghapus entitas umum seperti item yang tergeletak di tanah dan mob agresif standar. Entitas penting seperti Villager, Armor Stand, atau mob yang sudah diberi nama tidak akan terhapus.
+</details>
+
+<details>
+<summary><strong>Bisakah ini digunakan di Minecraft Realms?</strong></summary>
+<br>
+Meskipun secara teori bisa, performa di Realms terkadang tidak stabil karena keterbatasan kustomisasi. Disarankan untuk digunakan pada server pribadi (BDS) atau dunia lokal untuk hasil terbaik.
+</details>
+
+<details>
+<summary><strong>Apakah addon ini 100% gratis?</strong></summary>
+<br>
+Benar! Addon ini sepenuhnya gratis untuk digunakan dan didistribusikan. Namun, jika Anda merasa terbantu, dukungan dalam bentuk donasi akan sangat kami hargai untuk pengembangan di masa depan.
+</details>
 
 ---
 
-## ☕ Dukung Kami
-Bantu pengembangan addon ini dengan traktir kopi:  
+## ☕ Dukung Pengembangan
+Jika Anda menyukai proyek ini dan ingin membantu pengembangannya tetap berjalan, Anda bisa mentraktir saya secangkir kopi!
 
 <p align="center">
   <a href="https://saweria.co/Liplips">
-    <img src="https://i.ibb.co/n7w6zH7/saweria-logo.png" width="180" alt="Saweria"/>
+    <img src="https://i.ibb.co/n7w6zH7/saweria-logo.png" width="200" alt="Dukung di Saweria"/>
   </a>
 </p>
 
-[![Saweria](https://img.shields.io/badge/☕-Dukung%20di%20Saweria-orange?style=for-the-badge)](https://saweria.co/Liplips)  
+[![Saweria](https://img.shields.io/badge/☕-Traktir%20Kopi%20di%20Saweria-orange?style=for-the-badge&logo=buy-me-a-coffee)](https://saweria.co/Liplips)
 
 ---
 
-## 📌 Roadmap
-- [x] Rilis versi awal (Clear entity dasar)  
-- [x] Kompatibilitas Minecraft Bedrock terbaru  
-- [ ] Sistem konfigurasi custom (interval & pengecualian)  
-- [ ] Notifikasi lebih interaktif di chat  
-- [ ] Integrasi dashboard web untuk kontrol addon  
+## 🤝 Ingin Berkontribusi?
+Kami sangat terbuka untuk kontribusi dari komunitas! Jika Anda memiliki ide, perbaikan, atau fitur baru, silakan:
+1. **Fork** repositori ini.
+2. Buat **Branch** baru (`git checkout -b feature/FiturKeren`).
+3. **Commit** perubahan Anda (`git commit -m 'Menambahkan FiturKeren'`).
+4. **Push** ke branch tersebut (`git push origin feature/FiturKeren`).
+5. Buka sebuah **Pull Request**.
 
 ---
 
-## ❓ FAQ
-**Q: Apakah aman digunakan di server survival?**  
-✅ Ya, addon ini hanya menghapus entity berlebih tanpa merusak gameplay utama.  
+## 👥 Kredit & Apresiasi
+Proyek ini dibuat dengan cinta dan dedikasi. Terima kasih yang sebesar-besarnya kami ucapkan kepada:
 
-**Q: Bisa jalan di Realms?**  
-⚠️ Belum sepenuhnya stabil, disarankan untuk server pribadi atau dedicated host.  
-
-**Q: Addon ini gratis?**  
-✅ 100% gratis, tapi dukungan lewat Saweria akan sangat membantu ☕  
-
----
-
-## 🤝 Kontribusi
-Ingin ikut mengembangkan? Ikuti langkah berikut:  
-1. Fork repo ini  
-2. Buat branch fitur baru (`feature/nama-fitur`)  
-3. Commit perubahan kamu  
-4. Ajukan pull request 🚀  
-
----
-
-## 📌 Credits
-Dibuat dengan ❤️ oleh komunitas **Minecraft Indonesia** 🇮🇩  
-Kontributor & pengguna adalah bagian besar dari proyek ini ✨  
-
----
+* **Anda (Pengguna Setia)**: Terima kasih telah mengunduh, menggunakan, dan memberikan masukan untuk proyek ini.
+* **Komunitas Minecraft Bedrock Indonesia**: Atas dukungan dan semangatnya yang luar biasa.
+* **Inspirasi**: Konsep ini terinspirasi dari plugin *ClearLagg* yang populer di Minecraft Java Edition.
 
 <p align="center">
-  <sub>Made with 🧡 for Minecraft Bedrock Community</sub>
+  <sub>Dibuat dengan ❤️ untuk Komunitas Minecraft Bedrock</sub>
 </p>
