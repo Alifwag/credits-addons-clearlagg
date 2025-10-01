@@ -12,7 +12,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/YourGitHubRepo/releases">
+  <a href="https://github.com/Alifwag/credits-addons-clearlagg">
     <img src="https://img.shields.io/github/v/release/YourGitHubRepo/ClearLagg-Bedrock?color=38bdf8&label=Version&style=for-the-badge" alt="Version"/>
   </a>
   <a href="https://github.com/YourGitHubRepo/stargazers">
