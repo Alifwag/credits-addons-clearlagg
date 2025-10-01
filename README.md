@@ -13,26 +13,44 @@
 
 <img src="image/logo.png" alt="ClearLagg Bedrock Logo" width="220"/>
 
-</div>
+<div align="center">
 
-<p align="center">
+<h4>Status Proyek</h4>
+<p>
     <a href="https://github.com/[NAMA-PENGGUNA-GITHUB]/[NAMA-REPO-ANDA]/releases/latest">
-        <img src="https://img.shields.io/github/v/release/[NAMA-PENGGUNA-GITHUB]/[NAMA-REPO-ANDA]?style=for-the-badge&color=38bdf8&label=Versi" alt="Versi Rilis"/>
+        <img src="https://img.shields.io/github/v/release/[NAMA-PENGGUNA-GITHUB]/[NAMA-REPO-ANDA]?style=flat-square&logo=github&color=347d39&label=Rilis" alt="Versi Rilis"/>
     </a>
+    <img src="https://img.shields.io/badge/Minecraft-1.20%2B-green?style=flat-square&logo=minecraft" alt="Versi Minecraft"/>
+    <a href="https://github.com/[NAMA-PENGGUNA-GITHUB]/[NAMA-REPO-ANDA]/blob/main/LICENSE">
+        <img src="https://img.shields.io/github/license/[NAMA-PENGGUNA-GITHUB]/[NAMA-REPO-ANDA]?style=flat-square&color=22c55e" alt="Lisensi"/>
+    </a>
+    <img src="https://img.shields.io/github/last-commit/[NAMA-PENGGUNA-GITHUB]/[NAMA-REPO-ANDA]?style=flat-square&logo=github&label=Commit%20Terakhir" alt="Last Commit"/>
+</p>
+
+<h4>Statistik GitHub</h4>
+<p>
     <a href="https://github.com/[NAMA-PENGGUNA-GITHUB]/[NAMA-REPO-ANDA]/stargazers">
-        <img src="https://img.shields.io/github/stars/[NAMA-PENGGUNA-GITHUB]/[NAMA-REPO-ANDA]?style=for-the-badge&color=yellow" alt="GitHub Stars"/>
+        <img src="https://img.shields.io/github/stars/[NAMA-PENGGUNA-GITHUB]/[NAMA-REPO-ANDA]?style=flat-square&logo=github&color=gold" alt="GitHub Stars"/>
+    </a>
+    <a href="https://github.com/[NAMA-PENGGUNA-GITHUB]/[NAMA-REPO-ANDA]/network/members">
+        <img src="https://img.shields.io/github/forks/[NAMA-PENGGUNA-GITHUB]/[NAMA-REPO-ANDA]?style=flat-square&logo=github&color=purple" alt="GitHub Forks"/>
     </a>
     <a href="https://github.com/[NAMA-PENGGUNA-GITHUB]/[NAMA-REPO-ANDA]/issues">
-        <img src="https://img.shields.io/github/issues/[NAMA-PENGGUNA-GITHUB]/[NAMA-REPO-ANDA]?style=for-the-badge&color=red" alt="GitHub Issues"/>
+        <img src="https://img.shields.io/github/issues/[NAMA-PENGGUNA-GITHUB]/[NAMA-REPO-ANDA]?style=flat-square&logo=github&color=red" alt="GitHub Issues"/>
     </a>
-    <a href="https://github.com/[NAMA-PENGGUNA-GITHUB]/[NAMA-REPO-ANDA]/blob/main/LICENSE">
-        <img src="https://img.shields.io/github/license/[NAMA-PENGGUNA-GITHUB]/[NAMA-REPO-ANDA]?style=for-the-badge&color=22c55e" alt="Lisensi"/>
+    <img src="https://img.shields.io/github/downloads/[NAMA-PENGGUNA-GITHUB]/[NAMA-REPO-ANDA]/total?style=flat-square&logo=github&color=orange&label=Unduhan" alt="Total Unduhan"/>
+</p>
+
+<h4>Komunitas</h4>
+<p>
+    <a href="https://discord.gg/[KODE-UNDANGAN-DISCORD-ANDA]">
+        <img src="https://img.shields.io/discord/1?style=flat-square&logo=discord&logoColor=white&label=Discord&color=5865F2" alt="Discord"/>
     </a>
+    <img src="https://img.shields.io/badge/Dibuat_dengan-Cinta-ff69b4?style=flat-square" alt="Dibuat dengan Cinta"/>
 </p>
-<p align="center">
-    <img src="https://img.shields.io/github/downloads/[NAMA-PENGGUNA-GITHUB]/[NAMA-REPO-ANDA]/total?style=for-the-badge&color=orange" alt="Total Unduhan"/>
-    <img src="https://img.shields.io/badge/Made%20with-Love-ff69b4?style=for-the-badge" alt="Dibuat dengan Cinta"/>
-</p>
+
+</div>
+
 
 ---
 
