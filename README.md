@@ -106,7 +106,7 @@ Jika Anda menyukai proyek ini dan ingin membantu pengembangannya tetap berjalan,
   </a>
 </p>
 
-[![Saweria](https://img.shields.io/badge/☕-Traktir%20Kopi%20di%20Saweria-orange?style=for-the-badge&logo=buy-me-a-coffee)](https://saweria.co/Liplips)
+[![Saweria](https://img.shields.io/badge/-Traktir%20Kopi%20di%20Saweria-orange?style=for-the-badge&logo=buy-me-a-coffee)](https://saweria.co/Liplips)
 
 ---
 
